@@ -4,4 +4,6 @@
 此软件为收费软件，试用版可以免费复制 20 次，购买请发送邮件至 zcstkhk@163.com
 
 # 使用说明
+[最新版本下载页面](https://github.com/zcstkhk/DataTransport_Rhino-NX/releases)
+
 下载最新版 exe 文件，打开后选择需要的版本，点击启动即可。
